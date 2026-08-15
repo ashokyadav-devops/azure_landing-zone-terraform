@@ -8,7 +8,11 @@ rgs = {
     baneet = "centralindia"
  }
  rg3 = {
-    rg_name = "rg_dev2"
+    rg_name = "rg_dev3"
+    baneet = "centralindia"
+ }
+ rg4 = {
+    rg_name = "rg_dev4"
     baneet = "centralindia"
  }
 }
