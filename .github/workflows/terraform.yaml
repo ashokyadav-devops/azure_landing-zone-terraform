@@ -5,7 +5,7 @@ on:
   # Feature branch par push -> Terraform Plan
   push:
     branches:
-      - feature/rg-new
+       - 'feature/**'
     paths:
       - 'Environment/Dev/**'
 
