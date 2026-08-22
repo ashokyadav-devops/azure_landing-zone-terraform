@@ -15,6 +15,10 @@ rgs = {
     rg_name = "rg_dev4"
     baneet = "centralindia"
  }
+  rg5 = {
+    rg_name = "rg_dev5"
+    baneet = "centralindia"
+ }
 }
 
 storage = {
