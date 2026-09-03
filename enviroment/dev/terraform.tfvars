@@ -18,7 +18,7 @@ storage = {
    sa1 = {
     sa_name = "saprod"
     sa_location = "centralindia"
-    rg_name = "rg_dev"
+    rg_name = "rg-dev"
     account_tier = "Standard"
     replication = "LRS"
    }
