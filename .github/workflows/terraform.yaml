@@ -8,14 +8,14 @@ on:
        - 'feature/**'
        - main
     paths:
-      - 'Enviroment/Dev/**'
+      - 'enviroment/dev/**'
 
   # PR -> main -> Terraform Plan
   pull_request:
     branches:
       - main
     paths:
-      - 'Enviroment/Dev/**'
+      - 'enviroment/dev/**'
 
   # Manual execution
   workflow_dispatch:
