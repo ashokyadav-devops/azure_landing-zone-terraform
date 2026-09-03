@@ -1,7 +1,7 @@
 rgs = {
  rg1 = {
     rg_name = "rg_dev1"
-    baneet ="centralindia"
+    location ="centralindia"
  }
 
 }
