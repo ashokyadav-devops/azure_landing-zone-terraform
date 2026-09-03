@@ -3,14 +3,6 @@ rgs = {
     rg_name = "rg_dev1"
     baneet ="centralindia"
  }
- rg2 = {
-    rg_name = "rg_dev2"
-    baneet = "centralindia"
- }
-  rg3 = {
-    rg_name = "rg_dev3"
-    baneet = "centralindia"
- }
 
 }
 
