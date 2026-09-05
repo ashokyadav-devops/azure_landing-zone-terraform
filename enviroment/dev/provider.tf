@@ -6,10 +6,10 @@ terraform {
     }
   }
   backend "azurerm" {
-    resource_group_name = "rg-ashok"
+    resource_group_name  = "rg-ashok"
     storage_account_name = "stoargetfstate"
-    container_name = "tfstate"
-    key = "dev.tfstate"
+    container_name       = "tfstate"
+    key                  = "dev.tfstate"
   }
 }
 
