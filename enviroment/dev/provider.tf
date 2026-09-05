@@ -5,6 +5,12 @@ terraform {
       version = "4.79.0"
     }
   }
+  backend "azurerm" {
+    resource_group_name  = "rg-ashok"
+    storage_account_name = "stoargetfstate"
+    container_name       = "tfstate"
+    key                  = "dev.tfstate"
+  }
 }
 
 provider "azurerm" {
