@@ -3,19 +3,6 @@ rgs = {
     rg_name  = "rg-dev1"
     location = "centralindia"
   }
-  rg2 = {
-    rg_name  = "rg-dev2"
-    location = "centralindia"
-  }
-  rg3 = {
-    rg_name  = "rg-dev3"
-    location = "centralindia"
-  }
-  rg4 = {
-    rg_name  = "rg-dev4"
-    location = "centralindia"
-  }
-
 }
 
 storage = {
