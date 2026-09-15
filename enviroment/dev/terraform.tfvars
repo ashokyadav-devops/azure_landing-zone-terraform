@@ -7,7 +7,7 @@ rgs = {
 
 storage = {
   sa1 = {
-    sa_name      = "sadev121"
+    sa_name      = "sadev1212"
     sa_location  = "centralindia"
     rg_name      = "rg-dev1"
     account_tier = "Standard"
